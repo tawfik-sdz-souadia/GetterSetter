@@ -1,0 +1,6 @@
+Python API ==> Setter ==> Elasticsearch Database <== getter <== HeatMap Interface
+            |          |                                      |
+            |      Athentification                            | 
+            |                                                 |
+            ------------------ Crossbar Router ----------------    
+           Publiser-Subsriber                           Publiser-Subsriber

@@ -1,0 +1,7 @@
+{ 
+	"node":"http://172.17.0.1:9200",
+	"auth": {
+		"username":"elastic",
+		"password":"tawfiksdz158"
+	}
+}
